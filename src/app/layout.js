@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "صفحه اصلی - SET Coffee | فروشگاه اینترنتی قهوه ست",
-  description: "Sabzlearn coffee project with next.js v13",
+  description: " coffee project with next.js ",
 
   icons: {
     icon: "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/36190/coffee-logo-clipart-md.png",
